@@ -4,6 +4,7 @@
 
 users= []
 
+
 def cadastro_usuario(nome,email,senha,cpf):
     novo_user= {
         "nome": nome,
